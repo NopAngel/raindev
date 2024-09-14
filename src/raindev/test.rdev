@@ -1,0 +1,6 @@
+# Este es un comentario
+let x 10
+let y 20
+# Sumar x e y y almacenar el resultado en z
+add z x y
+print loa
